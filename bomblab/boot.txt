@@ -1,0 +1,14 @@
+break explode_bomb
+break explode_bomb
+break explode_bomb
+break explode_bomb
+break explode_bomb
+break explode_bomb
+break secret_phase
+set args answers.txt
+display /i $pc
+display /d $eax
+display /d $edx
+display /d $esi
+display /d $edi
+display /d $ecx
